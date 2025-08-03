@@ -46,7 +46,7 @@ A pretrained cardiffnlp/twitter-roberta-base-sentiment model is used for classif
 
 → Sentiment: Positive
 
-## Visual output of analysing the opinions
+## Visual output of analysed opinions
 The analysis indicated that many people who mentioned Safaricom in their tweets were neutral. The figure below shows the visual output of the opnions which were analysed.
 
 <img width="844" height="455" alt="Sentiment Visual" src="https://github.com/user-attachments/assets/6c9d2316-44ef-4868-ba16-7f92233b8bf0" />
